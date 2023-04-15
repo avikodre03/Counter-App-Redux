@@ -1,0 +1,14 @@
+.Counter {
+text-align: center;
+}
+.Counter h1{
+margin: 2rem;
+}
+.Counter button{
+    padding: .8rem 2rem;
+    margin: 1rem;
+    background-color: aqua;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+}
